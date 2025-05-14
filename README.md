@@ -1,16 +1,16 @@
 <p align="center">
-    <a href="https://github.com/portalium" target="_blank">
+    <a href="https://github.com/onurjr29" target="_blank">
         <img src="./portalium_logo.png" height="100px">
     </a>
-    <h1 align="center">Portalium _____</h1>
+    <h1 align="center">Portalium Todo</h1>
     <br>
 </p>
 
-[![Latest Stable Version](https://poser.pugx.org/portalium/_____/v/stable.png)](https://packagist.org/packages/portalium/_____)
-[![Total Downloads](https://poser.pugx.org/portalium/_____/downloads.png)](https://packagist.org/packages/portalium/_____)
-[![Build status](https://github.com/portalium/_____/workflows/build/badge.svg)](https://github.com/portalium/_____/actions?query=workflow%3Abuild)
+[![Latest Stable Version](https://poser.pugx.org/onurjr29/yii2-todo/v/stable.png)](https://packagist.org/packages/onurjr29/yii2-todo)
+[![Total Downloads](https://poser.pugx.org/onurjr29/yii2-todo/downloads.png)](https://packagist.org/packages/onurjr29/yii2-todo)
+[![Build status](https://github.com/onurjr29/yii2-todo/workflows/build/badge.svg)](https://github.com/onurjr29/yii2-todo/actions?query=workflow%3Abuild)
 
-The package ...
+The package provides a simple todo module for Portalium-based Yii2 applications.
 
 ## Requirements
 
@@ -18,10 +18,10 @@ The package ...
 
 ## Installation
 
-The package could be installed with composer:
+The package can be installed with composer:
 
 ```shell
-composer require portalium/_____
+composer require onurjr29/yii2-todo
 ```
 
 ## General usage
@@ -29,14 +29,14 @@ composer require portalium/_____
 ### Widgets:
 
 - [Example Widget](docs/widgets/widget.md)
-- [_____](docs/widgets/_____.md)
-- [_____](docs/widgets/_____.md)
+- [todo](docs/widgets/todo.md)
+- [todo](docs/widgets/todo.md)
 
 ### Components
 
 - [Example Component](docs/components/component.md)
-- [_____](docs/components/_____.md)
-- [_____](docs/components/_____.md)
+- [todo](docs/components/todo.md)
+- [todo](docs/components/todo.md)
 
 ## Testing
 
@@ -67,7 +67,7 @@ Here are some links with more information about components, controllers, models,
 
 ## License
 
-The Portalium _____ is free software. It is released under the terms of the BSD License.
+The Portalium todo is free software. It is released under the terms of the BSD License.
 Please see [`LICENSE`](./LICENSE.md) for more information.
 
 Maintained by [Portalium Software](https://www.yiiframework.com/).
